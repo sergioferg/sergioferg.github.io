@@ -1,0 +1,12 @@
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.welcome-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    background-color: red;
+    color: white;
+}
